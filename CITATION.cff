@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for: Social determinants and access to health care among U.S. adults, NHIS 2024"
+type: software
+authors:
+  - family-names: Olson
+    given-names: Carl V. L.
+    orcid: "https://orcid.org/0000-0002-1333-2392"
+license: MIT
+date-released: "2026-11-08"
